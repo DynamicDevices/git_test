@@ -3,7 +3,7 @@
 
 int main( void )
 {
-  THIS WON'T BUILD
+  printf("THIS **WILL** BUILD\n");
 
   printf("Hello Git World!\n");
   printf("Pi %f\n", 3.1415f);
