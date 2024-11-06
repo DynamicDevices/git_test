@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-void main( void )
+int main( void )
 {
   printf("Hello Git World!\n");
+  exit(1);
 }
 
